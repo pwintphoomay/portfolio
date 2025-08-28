@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pwint Phoo May
+# 👋 Hi, I'm Pwint Phoo
 
 **Professional Summary**
 
