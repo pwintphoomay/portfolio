@@ -50,9 +50,20 @@ Seeking a QA Automation Engineer role to:
 ## 📫 Connect with Me
 
 - [LinkedIn](#)
-- [Portfolio](#)
-- [Email](mailto:your.email@example.com)
+- [Phone](09 785449773)
+- [Email](pwintphoomay.95@gmail.com)
 -->
+
+---
+
+
+## 📫 Connect with Me
+
+- [LinkedIn](#)
+- [Phone](+95 9785449773)
+- [Email](pwintphoomay.95@gmail.com)
+
+
 
 ---
 
