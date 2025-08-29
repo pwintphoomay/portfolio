@@ -59,9 +59,9 @@ Seeking a QA Automation Engineer role to:
 
 ## 📫 Connect with Me
 
-- [LinkedIn](#)
-- [Phone](+95 9785449773)
-- [Email](pwintphoomay.95@gmail.com)
+- [LinkedIn] (#)
+- [Phone] (+95 9785449773)
+- [Email] (pwintphoomay.95@gmail.com)
 
 
 
