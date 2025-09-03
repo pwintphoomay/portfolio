@@ -10,7 +10,6 @@ Detail-oriented QA Engineer with 2.5 years of experience in software testing (ma
 
 - **Automation Tools:** Selenium WebDriver, Robot Framework, Appium  
 - **Programming Languages:** Java, Python  
-- **API Testing:** Postman  
 - **Testing Concepts:** Regression, Smoke, Sanity, Agile QA, Bug Life Cycle  
 - **Other:** SQL (basic queries),Postgres
 
